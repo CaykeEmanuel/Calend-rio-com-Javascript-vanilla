@@ -1,0 +1,15 @@
+@import "style.css";
+@import "palette.css";
+
+/*MENU*/
+
+.dark {
+    background-color: var(--darker);
+}
+
+.light {
+    background-color: var(--lighten);
+}
+
+
+

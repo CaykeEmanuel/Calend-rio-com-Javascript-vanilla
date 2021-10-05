@@ -1,0 +1,22 @@
+:root {
+    --primary: #025949;
+    --au_primary: #BF895A;
+    --wi_primary:#1C66A6;
+    --secondary: #014034;
+    --au_secondary: #73482F;
+    --wi_secondary:#4590BF;
+    --dark: #01261F;
+    --au_dark: #661D03;
+    --wi_dark:#0E3A73;
+    --darker: #12121f;
+    --au_darker: #260B01;
+    --wi_darker:#0C3366;
+    --lighten: #80A694;
+    --au_lighten: #A66B49;
+    --wi_lighten:#C9E7F2;
+    --light: #F2EFDC;
+    --au_light:#A69286;
+    --wi_light:#77BDD9;
+};
+
+
